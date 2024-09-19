@@ -1,6 +1,6 @@
 👋 About Me
 ============
-I am a ull Stack Developer with 4 years of hands-on experience in building responsive web applications. My technical expertise includes JavaScript, React, Node.js, and SQL, and I am committed to leveraging these skills to build dynamic and efficient applications. I am currently pursuing a Master's degree in Computer Science at the University of Toronto Mississauga, where I am enhancing my knowledge in software design, data structures, and system architecture.
+I am a Full Stack Developer with 4 years of hands-on experience in building responsive web applications. My technical expertise includes JavaScript, React, Node.js, and SQL, and I am committed to leveraging these skills to build dynamic and efficient applications. I am currently pursuing a Master's degree in Computer Science at the University of Toronto Mississauga, where I am enhancing my knowledge in software design, data structures, and system architecture.
 
 💻 Technical Skills
 
