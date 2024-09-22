@@ -17,9 +17,9 @@ I'm a Full Stack Developer from Mississauga
   Featured Projects
 </h2>
 
-The Blind Duck
+[The Blind Duck](https://github.com/joshuancc/Blind_Duck)
 
-Sokoban
+[Sokoban](https://github.com/DuckGoQuak/Sokoban/tree/main) 
 
 Barney's adventures
 
