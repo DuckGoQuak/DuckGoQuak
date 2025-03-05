@@ -8,10 +8,7 @@
 
 I'm a Full Stack Developer from Mississauga
 - 🎓 Pursuing a Computer Science degree at the University of Toronto Mississauga
-- 🖥️ I Like building websites :D
-- You can find me at  <a href="www.linkedin.com/in/kaison-tran-a1b7321b7">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width = "10%" height = "10%"/>
-  </a>
+
 
 <h2>
   Featured Projects
@@ -19,9 +16,8 @@ I'm a Full Stack Developer from Mississauga
 
 [The Blind Duck](https://github.com/joshuancc/Blind_Duck)
 
-[Sokoban](https://github.com/DuckGoQuak/Sokoban/tree/main) 
+[Academic Plannar] (https://github.com/DuckGoQuak/CSC301Project)
 
-Barney's adventures
 
 <h2>
   Languages and Tools
