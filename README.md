@@ -16,7 +16,7 @@ I'm a Full Stack Developer from Mississauga
 
 [The Blind Duck](https://github.com/joshuancc/Blind_Duck)
 
-[Academic Plannar] (https://github.com/DuckGoQuak/CSC301Project)
+[Academic Plannar](https://github.com/DuckGoQuak/CSC301Project)
 
 
 <h2>
