@@ -1,9 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://toppng.com/uploads/thumbnail/romotional-logo-rubber-duck-rubber-duck-11563236204gw9yqdjsn5.png" alt="a duck" width="40" height="40" marginRight = "500px"/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHello&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://toppng.com/uploads/thumbnail/romotional-logo-rubber-duck-rubber-duck-11563236204gw9yqdjsn5.png" alt="a duck" width="40" height="40"/>
+  Hello
 </h1>
 
 I'm a Full Stack Developer from Mississauga
